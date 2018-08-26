@@ -1,0 +1,63 @@
+{
+    [    
+        {
+            "collapsed"="false"
+            "cell_type: markdown",
+ metadata: {},
+# source:[
+ #        ]
+        },    
+{
+    "cell_type": "code",
+    execution_count:2,
+    metadata: {
+        "collapsed":"false"
+    }
+}       
+    ]
+},
+       {"source" : [
+    "%matplotlib inline\n",
+    "import pandas as pd\n",
+    "import numpy as num\n",
+    "import matplotlib as mat\n",
+    "data = pd.read_csv(\"/resources/data/chronic_kidney_disease_updated.csv\")\n",
+    "print list(data)"
+]
+    },
+    {
+        "cell_type": "markdown",
+        "metadata":{},
+        "source":[
+            
+        ]
+    },
+    
+    {
+        "cell_type":"code",
+        "execution_count":4,
+        "metadata":{
+            "collapsed":false
+            }
+    },
+{"source"[
+    "print data.dm\n"
+    "print data.dm.unique()"
+]
+},
+{
+    "cell_type":"markdown"
+    "metabase"{},
+    "source":[
+        
+    ]
+};
+{
+    "cell_type":"code",
+    "execution_count":9,
+    "metadata":{
+        "collapsed"=false
+    
+},
+            "source":[
+    },
